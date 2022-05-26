@@ -1,5 +1,9 @@
 # Frontend Mentor - Stats preview card component solution
 
+## Links
+
+Live Site URL: [https://dynamicstatscard.netlify.app/](https://dynamicstatscard.netlify.app/)
+
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -29,10 +33,6 @@ Users should be able to:
 
 ![Stats preview card component - Desktop version](screenshots/desktop-version.png)
 ![Stats preview card component - Mobile version](screenshots/mobile-version.png)
-
-### Links
-
-Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
