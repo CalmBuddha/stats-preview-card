@@ -64,6 +64,6 @@ Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 ## Acknowledgments
 
 I learned a lot of things from the following sources
-[Traversy Media](https://www.youtube.com/c/TraversyMedia) - Youtube
-[Kevin Powell](https://www.youtube.com/kepowob) - Youtube
-[HTML & CSS](https://www.htmlandcssbook.com/) - Book by Jon Duckett
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia) - Youtube
+- [Kevin Powell](https://www.youtube.com/kepowob) - Youtube
+- [HTML & CSS](https://www.htmlandcssbook.com/) - Book by Jon Duckett
