@@ -52,7 +52,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [MDN](https://developer.mozilla.org/en-US/) - MDN provide excellent documentation for HTML, CSS & Javascript.
+- [MDN](https://developer.mozilla.org/en-US/) - Mozilla Developer Network provide excellent documentation for HTML, CSS & Javascript.
 - [vw and vh units](https://ishadeed.com/article/viewport-units/#header) - This is a good article to learn about use case scenario of vw and vh units.
 - [Text Readability](https://www.intechnic.com/blog/best-practices-to-improve-text-readability-for-optimal-user-experience/) - Excellent article regarding UX of text readability. 
 - [Font Size Guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html) - Good article to learn about which font size to use for desktop and mobile devices.
