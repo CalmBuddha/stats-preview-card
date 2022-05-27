@@ -125,7 +125,7 @@ picture {
     position: relative;
 }
 
-/* adding filter effect on image */
+/* Adding filter effect on image */
 picture::after {
     content: '';
     position: absolute;
@@ -138,9 +138,6 @@ picture::after {
     border-bottom-right-radius: 10px;
     background-color: #5F0099;
     opacity: 50%;
-}
-
-picture .filter {
 }
 
 /* ATTRIBUTION
