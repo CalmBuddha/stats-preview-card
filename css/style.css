@@ -169,7 +169,7 @@ picture::after {
     }
     
     .intro-grid img,
-    picture .filter {
+    picture::after {
         border-radius: 0;
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
