@@ -2,6 +2,10 @@
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+## Links
+
+Live Site URL: [https://dynamicstatscard.netlify.app/](https://dynamicstatscard.netlify.app/)
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -30,10 +34,6 @@ Users should be able to:
 ![Stats preview card component - Desktop version](screenshots/desktop-version.png)
 ![Stats preview card component - Mobile version](screenshots/mobile-version.png)
 
-### Links
-
-Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
@@ -52,7 +52,7 @@ Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Useful resources
 
-- [MDN](https://developer.mozilla.org/en-US/) - MDN provide excellent documentation for HTML, CSS & Javascript.
+- [MDN](https://developer.mozilla.org/en-US/) - Mozilla Developer Network provide excellent documentation for HTML, CSS & Javascript.
 - [vw and vh units](https://ishadeed.com/article/viewport-units/#header) - This is a good article to learn about use case scenario of vw and vh units.
 - [Text Readability](https://www.intechnic.com/blog/best-practices-to-improve-text-readability-for-optimal-user-experience/) - Excellent article regarding UX of text readability. 
 - [Font Size Guidelines](https://learnui.design/blog/mobile-desktop-website-font-size-guidelines.html) - Good article to learn about which font size to use for desktop and mobile devices.
